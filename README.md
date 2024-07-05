@@ -1,7 +1,7 @@
 # drawing
 Very simple collaborative drawing application template. <br>
 Only logic is a server-side move stack and some sockets for connection.
-# installation
+# Installation
 npm i <br>
 npm run dev or npm start
 # Usage
